@@ -18,6 +18,16 @@ I'm an entry-level software developer with a BSc in Computer Science from Loyola
 
 ### ⏳ Coding Activity
 <!--START_SECTION:waka-->
+
+```txt
+From: 21 January 2025 - To: 20 February 2025
+
+Total Time: 7 mins
+
+Java         6 mins          >>>>>>>>>>>>>>>>>>>>>>>--   90.05 %
+Vim Script   0 secs          >>-----------------------   09.95 %
+```
+
 <!--END_SECTION:waka-->
 
 
