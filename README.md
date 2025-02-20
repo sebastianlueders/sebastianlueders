@@ -20,7 +20,8 @@ I'm an entry-level software developer with a BSc in Computer Science from Loyola
 [![Seb's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_username&theme=radical)](https://wakatime.com/)
 
 ### 📈 Contribution Metrics
-![GitHub Metrics](https://metrics.lecoq.io/sebastianlueders?template=classic&isocalendar=1&habits=1&activity=1)
+![GitHub Metrics](https://metrics.lecoq.io/sebastianlueders?template=classic&isocalendar=1&habits=1&repositories=1&stars=1&prs=1&issues=1)
+
 
 ### 📫 How to Reach Me
 - LinkedIn: [Sebastian Lueders](https://www.linkedin.com/in/sebastian-lueders-6bb054139/)
