@@ -17,10 +17,10 @@ I'm an entry-level software developer with a BSc in Computer Science from Loyola
 
 
 ### ⏳ Coding Activity
-[![Seb's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_username&theme=radical)](https://wakatime.com/)
+[![Seb's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=slueders&theme=radical)](https://wakatime.com/)
 
 ### 📈 Contribution Metrics
-![GitHub Metrics](https://metrics.lecoq.io/sebastianlueders?template=classic&isocalendar=1&habits=1&repositories=1&stars=1&prs=1&issues=1)
+[![Sebastian's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sebastianlueders&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ### 📫 How to Reach Me
