@@ -13,7 +13,7 @@ I'm an entry-level software developer with a BSc in Computer Science from Loyola
 - **Frameworks & Tools:** GNU/Linux, TensorFlow, PyTorch, React, Docker, React, jqwik, Alloy, Truffle Suite, Metasploit Framework
 
 ### 📊 GitHub Stats
-![Seb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebastianlueders&show_icons=true&theme=radical)
+![![GitHub Streak](https://streak-stats.demolab.com?user=sebastianlueders&theme=dark&border_radius=5)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianlueders&layout=compact&theme=radical)
 
