@@ -4,9 +4,9 @@
 I'm an entry-level software developer with a BSc in Computer Science from Loyola University Chicago. My expertise spans blockchain technology, cybersecurity, and quantitative finance. I'm passionate about developing innovative DeFi products and building, configuring, and hardening networking systems.
 
 ### 🔭 What I'm Working On
-1. **Avalanche Node & Data Pipeline:** Setting up and optimizing an Avalanche node to support machine learning data pipelines, ensuring efficient data flow and real-time analytics.
+1. **DeFi Trading Algorithms & Tooling:** Currently setting up and optimizing a full Avalanche node to support machine learning data pipelines and a streamlined flash loan system. Recently developed an LSTM model for cryptocurrency market predictions.
 2. **Get-Informed Chrome Extension:** Utilizing Natural Language Processing to detect and highlight potential biases on websites, promoting informed browsing.
-3. **DeFi Trading Algorithms & Tools:** Creating a no-code flash loan system and developing Long Short-Term Memory (LSTM) models for predictive trading in decentralized finance.
+3. **Real-Time Facial Recognition:** Computer vision system for detecting human faces, categorizing their emotions, matching faces to public records and retrieving publicly available information.
 
 ### 💡 Skills & Technologies
 - **Languages:** Python, C, Java, C++, Solidity, JavaScript
