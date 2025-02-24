@@ -22,7 +22,19 @@ I'm an entry-level software developer with a BSc in Computer Science from Loyola
 
 ### ⏳ Programming Language Distribution
 
-<figure><embed src="https://wakatime.com/share/@slueders/48795918-4b52-4f3c-9863-7fefd08475e7.svg"></embed></figure>
+<!--START_SECTION:waka-->
+
+```txt
+From: 23 January 2025 - To: 22 February 2025
+
+Total Time: 32 mins
+
+Java         27 mins         >>>>>>>>>>>>>>>>>>>>>----   85.39 %
+Vim Script   3 mins          >>>----------------------   10.91 %
+INI          0 secs          -------------------------   01.94 %
+```
+
+<!--END_SECTION:waka-->
 
 
 ### 📈 Monthly Contribution Metrics
