@@ -17,7 +17,7 @@ I'm an entry-level software developer with a BSc in Computer Science from Loyola
 
 ### 📊 GitHub Consistency
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sebastianlueders&theme=dark&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sebastianlueders)](https://git.io/streak-stats)
 
 
 ### ⏳ Programming Language Distribution
