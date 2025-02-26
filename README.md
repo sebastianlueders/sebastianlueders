@@ -25,13 +25,13 @@ I'm an entry-level software developer with a BSc in Computer Science from Loyola
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 January 2025 - To: 23 February 2025
+From: 25 January 2025 - To: 24 February 2025
 
-Total Time: 32 mins
+Total Time: 1 hr 2 mins
 
-Java         27 mins         >>>>>>>>>>>>>>>>>>>>>----   85.39 %
-Vim Script   3 mins          >>>----------------------   10.91 %
-INI          0 secs          -------------------------   01.94 %
+C            29 mins         >>>>>>>>>>>>-------------   46.69 %
+Java         27 mins         >>>>>>>>>>>--------------   44.18 %
+Vim Script   3 mins          >------------------------   05.64 %
 ```
 
 <!--END_SECTION:waka-->
