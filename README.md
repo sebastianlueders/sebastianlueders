@@ -12,7 +12,7 @@ I'm an entry-level software developer with a BSc in Computer Science from Loyola
 
 ### 💡 Skills & Technologies
 
-- **Languages:** Python, C, Java, C++, Solidity, JavaScript
+- **Languages:** Python, C/C++, Java, Solidity, JavaScript
 - **Frameworks & Tools:** GNU/Linux, TensorFlow, PyTorch, React, Docker, Selenium, jqwik, Alloy, Truffle Suite, Metasploit Framework
 
 ### 📊 GitHub Consistency
