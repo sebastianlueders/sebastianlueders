@@ -7,7 +7,7 @@ I'm an entry-level software developer with a BSc in Computer Science from Loyola
 ### 🔭 What I'm Working On
 
 1. **DeFi Trading Algorithms & Tooling:** Currently setting up and optimizing blockchain nodes to support machine learning data pipelines. I'm currently working on a no-code flash loan system.
-2. **Get-Informed Chrome Extension:** Utilizing Natural Language Processing to detect and highlight potential biases on websites and building data pipelines for continuous learning.
+2. **Get-Informed Chrome Extension:** Utilizing Natural Language Processing to detect and highlight political leanings of parsed information on websites a user interacts with.
 3. **Real-Time Facial Recognition:** Computer vision system for detecting human faces, categorizing their emotions, matching faces to public records for networking and brand-building purposes.
 
 ### 💡 Skills & Technologies
