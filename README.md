@@ -25,13 +25,13 @@ I'm an entry-level software developer with a BSc in Computer Science from Loyola
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 February 2025 - To: 17 March 2025
+From: 16 February 2025 - To: 18 March 2025
 
-Total Time: 30 hrs 4 mins
+Total Time: 31 hrs 26 mins
 
-Python       20 hrs 12 mins  >>>>>>>>>>>>>>>>>--------   66.79 %
-C            5 hrs 2 mins    >>>>---------------------   16.65 %
-Alloy        2 hrs 7 mins    >>-----------------------   07.00 %
+Python       20 hrs 12 mins  >>>>>>>>>>>>>>>>---------   63.91 %
+C            6 hrs 23 mins   >>>>>--------------------   20.24 %
+Alloy        2 hrs 7 mins    >>-----------------------   06.70 %
 ```
 
 <!--END_SECTION:waka-->
