@@ -25,7 +25,7 @@ I'm an entry-level software developer with a BSc in Computer Science from Loyola
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 August 2025 - To: 27 September 2025
+From: 29 August 2025 - To: 28 September 2025
 
 Total Time: 5 hrs 10 mins
 
