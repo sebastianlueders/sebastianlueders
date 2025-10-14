@@ -22,7 +22,9 @@ I'm an entry-level software developer with a BSc in Computer Science from Loyola
 
 ### ⏳ Programming Language Distribution
 
-<figure><embed src="https://wakatime.com/share/@slueders/dd58ae5a-9e6a-4c87-a1cb-cdbe908f131e.svg"></embed></figure>
+### ⏳ Programming Language Distribution
+
+![WakaTime Stats](https://wakatime.com/share/@slueders/dd58ae5a-9e6a-4c87-a1cb-cdbe908f131e.svg)
 
 
 ### 📈 Monthly Contribution Metrics
