@@ -27,7 +27,7 @@ I'm an entry-level software developer with a BSc in Computer Science from Loyola
 
 ### Coding Time Breakdown (on supported Editors)
 
-<!-- Total (choose the range you want to show off) -->
+<!-- Total  -->
 ![Total Code Time](https://github-readme-streak-stats-one-orpin-22.vercel.app/api/waka-total?username=slueders&range=all_time&cache_seconds=3600)
 
 <!-- Breakdown: last 30 days by day -->
@@ -35,9 +35,6 @@ I'm an entry-level software developer with a BSc in Computer Science from Loyola
 
 <!-- Breakdown: approx. last year by week -->
 ![By Week](https://github-readme-streak-stats-one-orpin-22.vercel.app/api/waka-breakdown?username=slueders&period=week&days=365&cache_seconds=3600)
-
-<!-- Breakdown: approx. last year by month -->
-![By Month](https://github-readme-streak-stats-one-orpin-22.vercel.app/api/waka-breakdown?username=slueders&period=month&days=365&cache_seconds=3600)
 
 
 ### How to Reach Me
