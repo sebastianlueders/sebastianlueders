@@ -22,12 +22,22 @@ I'm an entry-level software developer with a BSc in Computer Science from Loyola
 
 ### Programming Language Distribution
 
-![WakaTime Stats](https://wakatime.com/share/@slueders/dd58ae5a-9e6a-4c87-a1cb-cdbe908f131e.svg)
+![WakaTime Stats](https://github-readme-streak-stats-one-orpin-22.vercel.app/api/wakatime?username=slueders&layout=compact&range=last_7_days&theme=dark&hide_title=true&langs_count=8&cache_seconds=3600)
 
 
-### Monthly Contribution Metrics
+### Coding Time Breakdown (on supported Editors)
 
-[![Sebastian's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sebastianlueders&bg_color=000000&color=FA8C01&title_color=FA8C01&line=FA8C01&days=30&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Total (choose the range you want to show off) -->
+![Total Code Time](https://github-readme-streak-stats-one-orpin-22.vercel.app/api/waka-total?username=slueders&range=all_time&cache_seconds=3600)
+
+<!-- Breakdown: last 30 days by day -->
+![Last 30 Days (Daily)](https://github-readme-streak-stats-one-orpin-22.vercel.app/api/waka-breakdown?username=slueders&period=day&days=30&cache_seconds=3600)
+
+<!-- Breakdown: approx. last year by week -->
+![By Week](https://github-readme-streak-stats-one-orpin-22.vercel.app/api/waka-breakdown?username=slueders&period=week&days=365&cache_seconds=3600)
+
+<!-- Breakdown: approx. last year by month -->
+![By Month](https://github-readme-streak-stats-one-orpin-22.vercel.app/api/waka-breakdown?username=slueders&period=month&days=365&cache_seconds=3600)
 
 
 ### How to Reach Me
