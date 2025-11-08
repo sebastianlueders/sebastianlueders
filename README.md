@@ -25,9 +25,7 @@ I'm an entry-level software developer with a BSc in Computer Science from Loyola
 ![WakaTime Pie](https://github-readme-streak-stats-one-orpin-22.vercel.app/api/waka-pie?username=slueders&range=all_time&langs_count=20&min_slice_percent=0.5&diameter=220&legend_cols=2&donut=true&cache_seconds=3600)
 
 
-### Coding Schedule (on supported Editors)
-
-![Total Code Time](https://github-readme-streak-stats-one-orpin-22.vercel.app/api/waka-total?username=slueders&range=all_time&cache_seconds=3600)
+### Coding Log (on supported Editors)
 
 ![Last 30 Days (Daily)](https://github-readme-streak-stats-one-orpin-22.vercel.app/api/waka-breakdown?username=slueders&period=day&days=30&avg_line=true&cache_seconds=3600)
 
