@@ -14,11 +14,7 @@ I'm an entry-level software developer with a BSc in Computer Science from Loyola
 
 - **Languages:** Python, C/C++, Java, Solidity, JavaScript
 - **Frameworks & Tools:** GNU/Linux, TensorFlow, PyTorch, React, Docker, Selenium, jqwik, Alloy, Truffle Suite, Metasploit Framework
-
-### GitHub Consistency
-
-[![GitHub Streak](https://github-readme-streak-stats-one-orpin-22.vercel.app?user=sebastianlueders&theme=dark&ring=FA8C01&fire=FA8C01&currStreakLabel=FA8C01&sideLabels=FA8C01&mode=weekly)](https://github-readme-streak-stats-one-orpin-22.vercel.app/demo/)
-
+- 
 
 ### Programming Language Distribution
 
