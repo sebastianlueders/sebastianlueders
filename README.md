@@ -17,17 +17,17 @@ I'm an entry-level software developer with a BSc in Computer Science from Loyola
 
 ### GitHub Consistency
 
-[![GitHub Streak](https://github-readme-streak-stats-one-orpin-22.vercel.app?user=sebastianlueders&theme=dark&mode=weekly)](https://github-readme-streak-stats-one-orpin-22.vercel.app/demo/)
+[![GitHub Streak](https://github-readme-streak-stats-one-orpin-22.vercel.app?user=sebastianlueders&theme=dark&ring=FA8C01&fire=FA8C01&currStreakLabel=FA8C01&sideLabels=FA8C01&mode=weekly)](https://github-readme-streak-stats-one-orpin-22.vercel.app/demo/)
 
 
 ### Programming Language Distribution
 
-![WakaTime Pie](https://github-readme-streak-stats-one-orpin-22.vercel.app/api/waka-pie?username=slueders&range=all_time&langs_count=60&min_slice_percent=0&no_other=true&diameter=240&legend_cols=3&donut=true&cache_seconds=3600&v=4)
+![WakaTime Pie](https://github-readme-streak-stats-one-orpin-22.vercel.app/api/waka-pie?username=slueders&range=all_time&langs_count=60&min_slice_percent=0&no_other=true&diameter=240&legend_cols=3&donut=true&cache_seconds=3600&v=6)
 
 
 ### Coding Log (on supported Editors)
 
-![Last 30 Days (Daily)](https://github-readme-streak-stats-one-orpin-22.vercel.app/api/waka-breakdown?username=slueders&period=day&days=30&avg_line=true&cache_seconds=3600&v=4)
+![Last 30 Days (Daily)](https://github-readme-streak-stats-one-orpin-22.vercel.app/api/waka-breakdown?username=slueders&period=day&days=30&avg_line=true&cache_seconds=3600&v=6)
 
 
 ### How to Reach Me
