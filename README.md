@@ -22,19 +22,14 @@ I'm an entry-level software developer with a BSc in Computer Science from Loyola
 
 ### Programming Language Distribution
 
-![WakaTime Pie](https://github-readme-streak-stats-one-orpin-22.vercel.app/api/waka-pie?username=slueders&range=all_time&langs_count=16&min_slice_percent=1.5&diameter=220&legend_cols=2&donut=true&cache_seconds=3600)
+![WakaTime Pie](https://github-readme-streak-stats-one-orpin-22.vercel.app/api/waka-pie?username=slueders&range=all_time&langs_count=20&min_slice_percent=0.5&diameter=220&legend_cols=2&donut=true&cache_seconds=3600)
 
 
-### Coding Time Breakdown (on supported Editors)
+### Coding Schedule (on supported Editors)
 
-<!-- Total  -->
 ![Total Code Time](https://github-readme-streak-stats-one-orpin-22.vercel.app/api/waka-total?username=slueders&range=all_time&cache_seconds=3600)
 
-<!-- Breakdown: last 30 days by day -->
-![Last 30 Days (Daily)](https://github-readme-streak-stats-one-orpin-22.vercel.app/api/waka-breakdown?username=slueders&period=day&days=30&cache_seconds=3600)
-
-<!-- Breakdown: approx. last year by week -->
-![By Week](https://github-readme-streak-stats-one-orpin-22.vercel.app/api/waka-breakdown?username=slueders&period=week&days=365&cache_seconds=3600)
+![Last 30 Days (Daily)](https://github-readme-streak-stats-one-orpin-22.vercel.app/api/waka-breakdown?username=slueders&period=day&days=30&avg_line=true&cache_seconds=3600)
 
 
 ### How to Reach Me
