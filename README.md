@@ -22,7 +22,7 @@ I'm an entry-level software developer with a BSc in Computer Science from Loyola
 
 ### Programming Language Distribution
 
-![WakaTime Stats](https://github-readme-streak-stats-one-orpin-22.vercel.app/api/wakatime?username=slueders&layout=compact&range=last_7_days&theme=dark&hide_title=true&langs_count=8&cache_seconds=3600)
+![WakaTime Stats](https://github-readme-streak-stats-one-orpin-22.vercel.app/api/wakatime?username=slueders&layout=compact&theme=dark&hide_title=true&langs_count=8&cache_seconds=3600)
 
 
 ### Coding Time Breakdown (on supported Editors)
