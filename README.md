@@ -16,7 +16,7 @@ I'm an entry-level software developer with a BSc in Computer Science from Loyola
 - **Frameworks & Tools:** GNU/Linux, TensorFlow, PyTorch, React, Docker, Selenium, jqwik, Alloy, Truffle Suite, Metasploit Framework
 
 
-### Coding Languages used over the Past Year
+### Programming Time Breakdown over Last Year
 
 ![WakaTime Pie](https://github-readme-streak-stats-one-orpin-22.vercel.app/api/waka-pie?username=slueders&range=last_year&langs_count=12&min_slice_percent=1&no_other=true&donut=true&diameter=240&legend_cols=3&cache_seconds=3600&bg_color=0d1117&border_color=30363d&title_color=c9d1d9&text_color=8b949e&section_color=58a6ff,3fb950,f78166,ecb84c,8e96f0,da70d6,79c0ff,a5d6a7,ffb86c,ff79c6,bd93f9,94e2d5)
 
