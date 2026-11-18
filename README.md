@@ -8,6 +8,7 @@ Software developer with a BSc in Computer Science from Loyola University Chicago
 - [Prediction Market Arbitrage Engine](https://github.com/sebastianlueders/PredictionMarketArbBot) — C++ analysis core for matching markets, detecting arbitrage, sizing positions, and ranking opportunities, with unit and pipeline tests.
 - [AVAX-LSTM](https://github.com/sebastianlueders/AVAX-LSTM) — Team forecasting project covering data collection, preprocessing, LSTM training, and evaluation using cryptocurrency and economic data.
 - [Linear ML Model Builder](https://github.com/sebastianlueders/Linear-ML-Model-Builder) — Perceptron and Adaline implementations with CSV preprocessing, training, evaluation, and plotting tools.
+- [Flash Loan Template](https://github.com/sebastianlueders/Flash-Loan-Template) — Solidity template for Aave V3 flash loans.
 
 ### Technologies
 
