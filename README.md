@@ -1,36 +1,17 @@
-# Sebastian Lueders | Software Developer
+# Sebastian Lueders
 
-### About Me
+Software developer with a BSc in Computer Science from Loyola University Chicago. 2025 Dijkstra Award Winner. MS in CS from University of Chicago. My projects have focused on machine learning, financial software, and systems programming.
 
-I'm an entry-level software developer with a BSc in Computer Science from Loyola University Chicago. My expertise spans blockchain technology, cybersecurity, and quantitative finance. I'm passionate about developing innovative DeFi products and building, configuring, and securing network systems.
+### Selected Projects
 
-### What I'm Working On
+- [Alchemy](https://github.com/sebastianlueders/CIQ-Hackathon) — Team hackathon project with model fine-tuning workflows, GPU kernels, a web interface, and automated tests.
+- [Prediction Market Arbitrage Engine](https://github.com/sebastianlueders/PredictionMarketArbBot) — C++ analysis core for matching markets, detecting arbitrage, sizing positions, and ranking opportunities, with unit and pipeline tests.
+- [AVAX-LSTM](https://github.com/sebastianlueders/AVAX-LSTM) — Team forecasting project covering data collection, preprocessing, LSTM training, and evaluation using cryptocurrency and economic data.
+- [Linear ML Model Builder](https://github.com/sebastianlueders/Linear-ML-Model-Builder) — Perceptron and Adaline implementations with CSV preprocessing, training, evaluation, and plotting tools.
 
-1. **DeFi Trading Algorithms & Tooling:** Currently setting up and optimizing blockchain nodes to support machine learning data pipelines. I'm currently working on a no-code flash loan system.
-2. **Get-Informed Chrome Extension:** Utilizing Natural Language Processing to detect and highlight political leanings of parsed information on websites a user interacts with.
-3. **Real-Time Facial Recognition:** Computer vision system for detecting human faces, categorizing their emotions, matching faces to public records for networking and brand-building purposes.
+### Technologies
 
-### Skills & Technologies
+Python · C/C++ · Java · JavaScript · Solidity  
+Linux · Docker · PyTorch · TensorFlow
 
-- **Languages:** Python, C/C++, Java, Solidity, JavaScript
-- **Frameworks & Tools:** GNU/Linux, TensorFlow, PyTorch, React, Docker, Selenium, jqwik, Alloy, Truffle Suite, Metasploit Framework
-
-
-### Programming Time Breakdown over Last Year
-
-![WakaTime Pie](https://github-readme-streak-stats-one-orpin-22.vercel.app/api/waka-pie?username=slueders&range=last_year&langs_count=12&min_slice_percent=1&no_other=true&donut=true&diameter=240&legend_cols=3&cache_seconds=3600&bg_color=0d1117&border_color=30363d&title_color=c9d1d9&text_color=8b949e&section_color=58a6ff,3fb950,f78166,ecb84c,8e96f0,da70d6,79c0ff,a5d6a7,ffb86c,ff79c6,bd93f9,94e2d5)
-
-
-### Coding Log (on supported Editors)
-
-![Last 30 Days (Daily)](https://github-readme-streak-stats-one-orpin-22.vercel.app/api/waka-breakdown?username=slueders&period=day&days=30&avg_line=true&cache_seconds=3600&v=6)
-
-
-### How to Reach Me
-
-- LinkedIn: [Sebastian Lueders](https://www.linkedin.com/in/sebastian-lueders-6bb054139/)
-- Email: [sebastianxlueders@gmail.com](mailto:sebastianxlueders@gmail.com)
-- GitHub: [SebLueders](https://github.com/SebLueders)
-
----
-
+[LinkedIn](https://www.linkedin.com/in/sebastian-lueders-6bb054139/) · [Email](mailto:sebastianxlueders@gmail.com)
